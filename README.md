@@ -14,7 +14,7 @@ This project is for the development and design of a Micro-Muse for EEE3088F 2024
 Software developed for the hardware or instructions on where to find relevant sofware-- To be updated 
 
 ## Usage
-The project documentation can be found in the [Documents](https://github.com/Dichochi/EEE3088F-Project/tree/main/Documents) directory and the files required to produce the PCB can be found in the [Production](https://gitlab.com/eee3088f-group-18/eee3088f-project/-/tree/main/Production) directory.
+The project documentation can be found in the [Documents](https://github.com/Dichochi/EEE3088F-Project/tree/main/Documents) directory and the files required to produce the PCB can be found in the [Production](https://github.com/Dichochi/EEE3088F-Project/tree/main/Production) directory.
 
 ## Contact
 * Dichochi Ramotlou- RMTDIC001@myuct.ac.za
